@@ -18,6 +18,12 @@ Sync user Codespaces secret repository access so multiple secrets match one base
 
 Path: `skills/codespaces-secret-sync`
 
+### agentic-progressive-disclosure-architecture
+
+Design code for agentic coding with progressive disclosure: top-level modules expose intent and APIs first, deeper files reveal implementations on demand.
+
+Path: `skills/agentic-progressive-disclosure-architecture`
+
 ## Quick start
 
 ```bash
