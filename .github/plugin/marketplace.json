@@ -14,6 +14,12 @@
       "source": "copilot-cmux",
       "description": "Send Copilot CLI notifications to cmux with macOS fallback.",
       "version": "0.4.3"
+    },
+    {
+      "name": "fun-colleague",
+      "source": "fun-colleague",
+      "description": "A playful but high-quality Copilot CLI persona with smart humor, movie nods, and optional fresh sports or trivia references for interactive sessions.",
+      "version": "0.1.0"
     }
   ]
 }
