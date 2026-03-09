@@ -21,13 +21,13 @@ It is meant to feel like working with a sharp colleague who is fun to pair with,
 From the marketplace after publishing:
 
 ```bash
-copilot plugin install fun-colleague@ekroon-copilot-plugins
+copilot plugin install fun-colleague@ekroon-copilot-catalog
 ```
 
 During local development:
 
 ```bash
-copilot plugin install /absolute/path/to/copilot-plugins/plugins/fun-colleague
+copilot plugin install /absolute/path/to/copilot-catalog/plugins/fun-colleague
 ```
 
 ## Update

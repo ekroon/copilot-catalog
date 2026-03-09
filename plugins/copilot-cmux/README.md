@@ -20,18 +20,24 @@ This plugin sends Copilot CLI hook notifications to `cmux notify` with a macOS `
 - `hooks.json` — hook bindings.
 - `scripts/cmux_notify.py` — notification handler.
 
-## Install (GitHub)
+## Install
 
 ```bash
-copilot plugin install ekroon/copilot-cmux
+copilot plugin install copilot-cmux@ekroon-copilot-catalog
 copilot plugin list
 ```
 
-Update to the latest GitHub version:
+During local development:
+
+```bash
+copilot plugin install /absolute/path/to/copilot-catalog/plugins/copilot-cmux
+```
+
+Update to the latest marketplace version:
 
 ```bash
 copilot plugin uninstall copilot-cmux
-copilot plugin install ekroon/copilot-cmux
+copilot plugin install copilot-cmux@ekroon-copilot-catalog
 ```
 
 Uninstall:

@@ -1,7 +1,7 @@
 {
-  "name": "ekroon-copilot-plugins",
+  "name": "ekroon-copilot-catalog",
   "metadata": {
-    "description": "Personal Copilot CLI plugins by ekroon",
+    "description": "Personal Copilot catalog by ekroon with installable plugins and related skills",
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },

@@ -3,7 +3,7 @@
   "description": "A playful but high-quality Copilot CLI persona with smart humor, movie nods, and optional fresh sports or trivia references for interactive sessions.",
   "version": "0.1.0",
   "license": "MIT",
-  "repository": "https://github.com/ekroon/copilot-plugins",
+  "repository": "https://github.com/ekroon/copilot-catalog",
   "keywords": [
     "copilot-cli",
     "persona",
