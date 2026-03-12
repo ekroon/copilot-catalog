@@ -36,6 +36,12 @@ Design code for agentic coding with progressive disclosure.
 
 Path: `skills/agentic-progressive-disclosure-architecture`
 
+### create-pr
+
+Creates a pull request from current changes. Commits changes logically, finds PR templates, and opens the PR using the gh CLI.
+
+Path: `skills/create-pr`
+
 ### codespaces-secret-sync
 
 Sync user Codespaces secret repository access across multiple secrets.
